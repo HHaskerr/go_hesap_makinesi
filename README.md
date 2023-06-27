@@ -1,2 +1,1 @@
-# go_hesap_makinesi
-golang ile yazdığım arayüzsüz,terminal üzerinden kullanılan gelişmiş hesap makinesi
+Bu Go dilinde yazılmış bir hesap makinesi programıdır. Program ilk olarak kullanıcıdan bir sayı girmesini ister. Daha sonra kullanıcıya 1-Toplama, 2-Çıkartma, 3-Çarpma, 4-Bölme, 5-Üsalma ve 6-Karekök alma gibi operatör seçenekleri sunulur. Kullanıcı bir operatör seçtikten sonra (karekök alma hariç) sonraki sayıyı girmesi istenir. Kullanıcı "0-Sonucu göster" seçeneğini seçene kadar bu işlem tekrarlanır. "0-Sonucu göster" seçildiğinde sonuç ekrana yazdırılır.
